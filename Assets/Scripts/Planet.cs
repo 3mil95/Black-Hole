@@ -20,6 +20,7 @@ public class Planet : MonoBehaviour
 
     float turnMin = 0;
     float turnMax = 0;
+    
 
 
 
